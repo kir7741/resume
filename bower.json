@@ -1,0 +1,36 @@
+{
+  "name": "resume",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "kir7741 <typhoonjoe2003@hotmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "owl.carousel": "^2.2.1",
+    "normalize-css": "5.0.0",
+    "font-awesome": "fontawesome#^4.7.0"
+  },
+  "overrides": {
+    "bootstrap-sass": {
+      "main": [
+        "assets/stylesheets/_bootstrap.scss",
+        "assets/javascripts/bootstrap.min.js"
+      ]
+    },
+    "font-awesome": {
+      "main": [
+        "css/font-awesome.css"
+      ]
+    }
+  }
+}
