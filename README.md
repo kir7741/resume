@@ -36,10 +36,17 @@
 
 ## 作品集
 
-* 個人介紹網站- https://kir7741.github.io/resume/
+* 個人介紹網站 - https://kir7741.github.io/resume/
   </br>- Bootstrap3 搭配 SCSS 快速建立響應式網頁。
   </br>- 使用 CSS3 + Jquery 製作動畫效果。
   
+* 新北市教會設立登記查詢 - https://kir7741.github.io/religion-map/
+  </br>- 使用 Javascript 透過 Ajax 取得 新北市政府 Open data 資料。
+  </br>- 使用 Google Map Api 將資料標記於地圖上。
+ 
+* 個人介紹網站 - https://kir7741.github.io/resume/
+  
+ 
   
   
   
