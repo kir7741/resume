@@ -37,6 +37,7 @@
 ## 作品集
 
 * 個人介紹網站 - https://kir7741.github.io/resume/
+
   </br>- Bootstrap3 搭配 SCSS 快速建立響應式網頁。
   </br>- 使用 CSS3 + Jquery 製作動畫效果。
   
@@ -47,7 +48,11 @@
 * 台北災害網 - https://kir7741.github.io/Vue-disaster/
   </br>- 使用 Javascript 透過 Ajax 取得 Open data 資料。
   </br>- 運用 Vue.js 框架開發網頁。
-  
+  
+* 待辦清單 - https://kir7741.github.io/Vue-todolist/
+  </br>- 運用 Vue.js 框架開發網頁。
+  </br>- 結合 Firebase 即時更新資料庫。
+
 <hr>
   
 ## 未來規劃
