@@ -37,7 +37,6 @@
 ## 作品集
 
 * 個人介紹網站 - https://kir7741.github.io/resume/
-
   </br>- Bootstrap3 搭配 SCSS 快速建立響應式網頁。
   </br>- 使用 CSS3 + Jquery 製作動畫效果。
   
